@@ -1,0 +1,21 @@
+.container{
+  position: relative;
+  height: 100vh;
+  width: 100%;
+  background-color: aliceblue;
+}
+
+body{
+  margin: 0;
+  padding: 0;
+  cursor: none;
+
+}
+.cursor{
+  
+  background-size: cover;
+	width: 350px;
+	height: 350px;
+  
+  background: url('./temp.png');
+}
