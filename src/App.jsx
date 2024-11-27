@@ -21,7 +21,9 @@ function App() {
   return (
     <>
     <div className="container">
-      <div className="cursor" style={thissyle} ></div>
+      <div className="cursor" style={thissyle} >
+        <img src="/temp.png" alt="" />
+      </div>
     </div>
     </>
   )
